@@ -1,0 +1,37 @@
+.evolveModal {
+    position: absolute;
+    top: 25vh;
+    left: 33vw;
+    z-index: 11;
+    background: #ffffff42;
+    border-radius: 15px;
+    /* width: 64vw;
+    height: 33vh; */
+    /* border: 1px solid #000; */
+    backdrop-filter: blur(3px);
+}
+
+
+
+.evolveModal .row {
+    /* width: 66vw; */
+    width: auto;
+    float: left;
+    /* background: #fff; */
+    /* margin: 4vh 1vw; */
+    margin: 0;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+.evolveModal img {
+    height: 10vh;
+}
+
+.evolveModal h4 {
+    text-transform: capitalize;
+}
+
+.evolveModal div div {
+    width: 18vw;
+}
