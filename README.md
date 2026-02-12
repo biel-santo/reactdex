@@ -6,13 +6,6 @@
 
 Pokedex feita como aprendizado de ReactJS e APIs.
 
-## ✨ Features
-
-- Design responsivo
-- Dark mode
-- Componentização
-- Performance otimizada
-
 ## 🛠️ Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
